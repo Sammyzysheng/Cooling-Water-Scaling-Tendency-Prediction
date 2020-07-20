@@ -1,3 +1,4 @@
+```R
 summary(m1)  
 2.	  
 3.	Call:  
@@ -345,3 +346,4 @@ summary(m1)
 345.	  
 346.	sigma^2 estimated as 1783:  log likelihood=-200.41  
 347.	AIC=406.83   AICc=407.51   BIC=411.82  
+```
