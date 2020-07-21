@@ -11,5 +11,5 @@ In this project, through the dynamic simulation experiment of circulating coolin
 - Monitoring and controlling the inlet and outlet temperature, pressure, flow and other parameters of the internal and external cold water of the circulating cooling water system, recording the change of the thermal resistance of the coil during the operation cycle, and confirming the results of the analysis of the scaling tendency of the water.
 - Taking the water quality parameters and the experimental data of the thermal resistance as the research object, the growth rate of the thermal resistance of the dirt was predicted. Based on the theory of regression analysis and time series analysis, the MVR-ARIMAX (multiple regression self-moving average) model was established to determine the main factors affecting scaling. It is proved that the ARIMAX model can monitor the water quality environment of the valve cooling system. The fouling of the pipe is subject to short-term macro predictions.
 
-## Results
 
+![Model](images/model.png)
