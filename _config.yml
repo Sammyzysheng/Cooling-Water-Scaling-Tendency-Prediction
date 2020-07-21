@@ -33,7 +33,7 @@ favicon: https://raw.githubusercontent.com/Sammyzysheng/Cooling-Water-Scaling-Te
 # 菜单中的按钮
 navigation:
   - name: Main Page
-    url: /
+    url: /mainpage
   - name: Experiment
     url: /Experiment
   - name: Code
