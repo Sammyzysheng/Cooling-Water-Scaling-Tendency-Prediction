@@ -12,4 +12,4 @@ In this project, through the dynamic simulation experiment of circulating coolin
 - Taking the water quality parameters and the experimental data of the thermal resistance as the research object, the growth rate of the thermal resistance of the dirt was predicted. Based on the theory of regression analysis and time series analysis, the MVR-ARIMAX (multiple regression self-moving average) model was established to determine the main factors affecting scaling. It is proved that the ARIMAX model can monitor the water quality environment of the valve cooling system. The fouling of the pipe is subject to short-term macro predictions.
 
 
-![Model](/images/model.png)
+![Model](Cooling-Water-Scaling-Tendency-Prediction/images/model.png)
